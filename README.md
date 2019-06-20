@@ -9,7 +9,7 @@ LaTeX could be daunting the first time you meet it. This repo is a collection of
     Check [this](https://www.latex-project.org/get/) out for some possible online editors. Online tools usually have builtin compile tools so there is nothing else to do.
 
 ## Compile into pdf
-I recommend using ```latexmk``` that should come with MacTeX and could be installed on other distros. Check [this](https://mg.readthedocs.io/latexmk.html) out if your machine have not already installed latexmk.
+I recommend using ```latexmk``` that should come with MacTeX and could be installed on other distros. Check [this](https://mg.readthedocs.io/latexmk.html) out if latexmk is not already installed on your machine.
 
 ### Rational and drawbacks of using ```latexmk```
 The author discussed this [here](https://tex.stackexchange.com/questions/248530/how-sensible-is-it-to-use-latexmk).
