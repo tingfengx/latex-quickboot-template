@@ -1,5 +1,6 @@
-# latex-quickboot-template
+# latex-quickboot-template [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) 
 LaTeX could be daunting the first time you meet it. This repo is a collection of templates that could help you with your first LaTeX document.
+
 
 ## What you will need
 - Working locally
@@ -20,3 +21,6 @@ The author discussed this [here](https://tex.stackexchange.com/questions/248530/
 - [math](https://github.com/tingfengx/latex-quickboot-template/tree/master/math): Built upon the basic template, added some math packages and included some math enviornment demos.
 - [slides](https://github.com/tingfengx/latex-quickboot-template/tree/master/slides)
 - [xelatex](https://github.com/tingfengx/latex-quickboot-template/tree/master/xelatex): This was adapted from the TeXShop XeLaTeX embeded templates. It allows a lot of customizations and allows the typesetting of non-alphabetical languages, such as Chinese. 
+
+## License
+This repo is licensed under the "Unlicense".
