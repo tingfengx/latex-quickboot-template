@@ -1,0 +1,25 @@
+\documentclass[letterpaper,12pt]{letter}
+\usepackage{lipsum}
+% Some of the article customisations are relevant for this class
+
+\name{}         % To be used for the return address on the envelope
+\signature{}    % Goes after the closing (ie at the end of the letter, with space for a signature)
+\address{Address \\ of \\ Sender}
+
+\makelabels     % prints envelope labels on the final page of the document, comment it out if not wanted
+
+\begin{document}
+\begin{letter}{Name and \\ Address \\ of \\ Receiver}
+
+\opening{Dear Jane}
+
+\lipsum
+
+\closing{Best,}
+
+\cc{}           % people this letter is cc-ed to
+\encl{}         % list of item enclosed
+\ps{}           % post scriptums.
+
+\end{letter}
+\end{document}
