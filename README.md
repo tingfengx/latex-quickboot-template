@@ -15,8 +15,8 @@ I recommend using ```latexmk``` that should come with MacTeX and could be instal
 The author discussed this [here](https://tex.stackexchange.com/questions/248530/how-sensible-is-it-to-use-latexmk).
 
 ## List of templates in this repo
-- basic: A basic article
-- letter
-- math: Built upon the basic template, added some math packages and included some math enviornment demos.
-- slides
-- xelatex: This was adapted from the TeXShop XeLaTeX embeded templates. It allows a lot of customizations and allows the typesetting of non-alphabetical languages, such as Chinese. 
+- [basic](https://github.com/tingfengx/latex-quickboot-template/tree/master/basic): A basic article
+- [letter](https://github.com/tingfengx/latex-quickboot-template/tree/master/letter)
+- [math](https://github.com/tingfengx/latex-quickboot-template/tree/master/math): Built upon the basic template, added some math packages and included some math enviornment demos.
+- [slides](https://github.com/tingfengx/latex-quickboot-template/tree/master/slides)
+- [xelatex](https://github.com/tingfengx/latex-quickboot-template/tree/master/xelatex): This was adapted from the TeXShop XeLaTeX embeded templates. It allows a lot of customizations and allows the typesetting of non-alphabetical languages, such as Chinese. 
