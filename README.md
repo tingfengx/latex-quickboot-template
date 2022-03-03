@@ -1,5 +1,10 @@
 # Ting's TeX
 
+## Templates
+### [Simple](./simple/simple.tex)
+
+### [Fancy](./fancy/fancy.tex)
+
 ## Fonts
 ``````
 wget https://www.fontsquirrel.com/fonts/download/TeX-Gyre-Pagella
